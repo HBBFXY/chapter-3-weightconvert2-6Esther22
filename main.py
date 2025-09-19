@@ -1,4 +1,4 @@
-originalweight=float(input("请输入你的体重(千克):"))
+originalweight=50
 rate=0.165
 weightfactor=0.5
 for year in range(1,11):
